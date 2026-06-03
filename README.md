@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**claudialeticiasimoes-coder/claudialeticiasimoes-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Claudia Leticia Simões
+### Estudante de Ciencia de Dados na Escola do Futuro de Goias
+#### 🛠️ ToolBox Técnico 
+- **Dados:** Python (Pandas, Seaborn), SQL (MySql), NoSQL (ElasticSearch)
+- **Visualização:** Matplotlib, Kibana, Power BI, Excel
+- **Ferramentas:** Git, Github, VS Code
+- **Machine Learning:** Scikit-learn
+#### 📒Projetos em Destaque 
+- [TechStore Analysis](claudialeticiasimoes-coder): Consultoria para empresas ...
+### 🎓Conhecimentos Futuros
+- **Visualizacão de Dados:** Looker, Tableau
+- **Cloud:** AWS
+- **Linguagens:** R
